@@ -28,3 +28,4 @@ tensorboard
 torchvision
 qwen-vl-utils==0.0.10
 zmq
+vllm
