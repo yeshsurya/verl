@@ -30,3 +30,4 @@ qwen-vl-utils==0.0.10
 zmq
 vllm==0.8.3
 flash-attn==2.7.4.post1
+mathruler==0.1.0
